@@ -84,37 +84,3 @@ module.exports.editar = async (req, res) => {
 
 
 
-//module.exports.crear=(req,res)=>{
-//console.log(req.body) imprime crear en la consola 
-//}
-
-
-//const {defaul: mongoose} = require('mongoose');
-
-//const Docentes = require('../Models/docentes');
-
-//module.exports.verlistado = async(req, res)=>{
-    //try{
-       // const docentes = await Docentes.find({});
-        //console.log(docentes); imprime en consola
-        //res.json(docentes); imprime en consola 
-       // res.render('docentes');
-  //  }
-    //catch(error){
-      //  console.error('error mostrando los docentes', error);
-        //res.status(500).json({
-          //  menssage: 'Error mostrando'
-        //});
-    //}
-//};
-
-
-//function listado(req, res){
-
- //   res.status(200).send({
-   //     menssage:'Esta Ruta el del Listado Docente'
-  //  });
-//}
-//module.exports={
-  //  listado
-//};
