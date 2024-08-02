@@ -1,0 +1,41 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #007bff; /* Azul */
+    color: white; /* Blanco */
+    padding: 10px; /* Espaciado interno */
+}
+
+/* Estilos para el cuerpo */
+.container {
+    margin-top: 20px; /* Margen superior */
+}
+
+/* Estilos para las tablas */
+table {
+    width: 100%; /* Ancho total */
+    border-collapse: collapse; /* Colapsar bordes de la tabla */
+}
+
+table, th, td {
+    border: 1px solid #ced4da; /* Gris */
+    padding: 8px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    border-radius: 10px;
+}
+
+th {
+    background-color: #007bff; /* Azul */
+    color: white; /* Blanco */
+}
+
+/* Estilos para el pie de página */
+#footer {
+    background-color: #03376b; /* Gris */
+    padding: 10px; /* Espaciado interno */
+    text-align: center; /* Alineación del texto */
+    position: fixed; /* Fijar en la parte inferior */
+    left: 0; /* Alinear a la izquierda */
+    bottom: 0; /* Alinear en la parte inferior */
+    width: 100%; /* Ancho total */
+}
+

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65e00598b3ad51c144766f18"
+  },
+  "PrimerNombre": "Ana",
+  "SegundoNombre": "Francis",
+  "PrimerApellido": "López",
+  "SegundoApellido": "García",
+  "Especialidad": "Ingeniería de Software"
+},
+{
+  "_id": {
+    "$oid": "65e00598b3ad51c144766f19"
+  },
+  "PrimerNombre": "Jorge",
+  "SegundoNombre": "JJ Saul",
+  "PrimerApellido": "Martinez",
+  "SegundoApellido": "Hernandez",
+  "Especialidad": "Infraestructura"
+},
+{
+  "_id": {
+    "$oid": "65e00598b3ad51c144766f1a"
+  },
+  "PrimerNombre": "Rosa",
+  "SegundoNombre": "Elena",
+  "PrimerApellido": "Castellon",
+  "SegundoApellido": "Estrada",
+  "Especialidad": "Sistemas Organizacionales"
+},
+{
+  "_id": {
+    "$oid": "65e00598b3ad51c144766f1b"
+  },
+  "PrimerNombre": "Cristopher",
+  "SegundoNombre": "Joan",
+  "PrimerApellido": "Lopez",
+  "SegundoApellido": "Vado",
+  "Especialidad": "Historia"
+},
+{
+  "_id": {
+    "$oid": "65e00598b3ad51c144766f1c"
+  },
+  "PrimerNombre": "Eveling",
+  "SegundoNombre": "Del Carmen",
+  "PrimerApellido": "Espinoza",
+  "SegundoApellido": "Aragon",
+  "Especialidad": "Sistemas Computacionales"
+},
+{
+  "_id": {
+    "$oid": "65e0fc1f3357868e17c2b9ba"
+  },
+  "PrimerNombre": "Juan",
+  "SegundoNombre": "Luis",
+  "PrimerApellido": "Gonzales",
+  "SegundoApellido": "Prado",
+  "Especialidad": "Gestion Organizacional"
+}]
